@@ -1,5 +1,5 @@
 {
-    "token": "in .env",
+    "token": "YourToken",
     "mongooseConnectionString": "mongodb+srv://aio:aio@cluster0.l95qz.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "fail": "<:crossX:992382598187851869>",
     "success": "<a:MarkChecking:992381788028669992>",
