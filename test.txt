@@ -1,5 +1,3 @@
-here you found Alternative Disk Spoofing and Motherboard Spoofing and Monitor Spoofing and Raid0 spoofing and Monitor Spoofing
-
 using Microsoft.Win32;
 using System;
 using System.IO;
